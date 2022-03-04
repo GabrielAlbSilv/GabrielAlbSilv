@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Alb, estudande de programação👾
+### Olá! Eu sou o Gabriel Alb, estudande de programação  👾
 
 <img align="right" alt="Alb-pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/349487873/original.gif">
 
