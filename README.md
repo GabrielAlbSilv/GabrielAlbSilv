@@ -4,10 +4,9 @@
 
 - 🌱 Atualmente aprendendo C#, C++, Mysql, PHP e muito mais!
 - 👯 Busco sempre colaborar em diferentes projetos
-- 🤔 Quebrando a cabeça com o TCC
+- 🤔 Cursando Ciência da Computação!
 - 📧 Contate-me pelo e-mail: gabrielalbuquerquemoura@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Fato divertido: experiência em C
 
 <br>
 <div align="center">
