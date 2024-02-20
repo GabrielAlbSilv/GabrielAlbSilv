@@ -1,12 +1,9 @@
-### Olá! Eu sou o Gabriel Alb, estudande de programação  👾
+### Olá! Eu sou Gabriel, estudande de programação  👾
 
 <img align="right" alt="Alb-pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/349487873/original.gif">
 
-- 🌱 Atualmente aprendendo C#, C++, Mysql, PHP e muito mais!
 - 👯 Busco sempre colaborar em diferentes projetos
-- 🤔 Cursando Ciência da Computação!
-- 📧 Contate-me pelo e-mail: gabrielalbuquerquemoura@gmail.com
-- 😄 Pronomes: ele/dele
+- 🤔 Cursando Ciência da Computação
   <br>
   <h3> Linguagens e plataformas: </h3>
   <div style="display: inline_block"><br>
